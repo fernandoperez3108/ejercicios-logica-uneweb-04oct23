@@ -11,7 +11,7 @@ int main() {
 
     printf("digite una cadena: ");
     gets(cadena);
-    printf("digite un caracter");
+    printf("digite un caracter: ");
     scanf("%c", &caracter);
 
     for(i = 0; i < strlen(cadena); i++){
